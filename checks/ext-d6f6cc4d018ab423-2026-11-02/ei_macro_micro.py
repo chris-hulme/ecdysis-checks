@@ -6,8 +6,7 @@ for the paper's two spatial examples (Figs. 2 and 4). No external data.
 import itertools, json, os, sys
 import numpy as np
 
-SEED = int(os.environ.get("ECDYSIS_SEED", "0"))
-np.random.seed(SEED)  # the computation is deterministic; the seed is recorded only
+SEED = os.environ.get("ECDYSIS_SEED", "0")  # the computation is deterministic; the seed (the archive issues 64 hex) is recorded only
 
 
 def ei(tpm):
