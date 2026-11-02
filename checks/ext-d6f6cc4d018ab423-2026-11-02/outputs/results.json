@@ -1,0 +1,12 @@
+{
+  "ei_fig2_micro": 1.1485793804973707,
+  "ei_fig2_macro": 1.5518285258976832,
+  "ei_fig4_micro": 2.4338343733773984,
+  "ei_fig4_macro": 3.0,
+  "gain_fig2": 0.4032491454003124,
+  "gain_fig4": 0.5661656266226016,
+  "fig2_macro_supervenience_maxdev": 2.220446049250313e-16,
+  "matches_printed_two_decimals": 1,
+  "macro_beats_micro_both": 1,
+  "seed": 0
+}
