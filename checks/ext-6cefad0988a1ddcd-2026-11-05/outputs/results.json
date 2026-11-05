@@ -1,0 +1,15 @@
+{
+  "n_positions": 13,
+  "max_position": 1000000,
+  "first_digit_correct_positions": 13,
+  "all8_correct_positions": 13,
+  "mean_leading_hex_digits_correct": 8.0,
+  "ops_d1e2": 4437,
+  "ops_d1e3": 63702,
+  "ops_d1e4": 832962,
+  "ops_d1e5": 10335861,
+  "ops_per_dlog2d_1e2": 6.6784,
+  "ops_per_dlog2d_1e5": 6.2228,
+  "loglog_slope_ops_vs_d": 1.1218,
+  "test_passed": 1
+}
