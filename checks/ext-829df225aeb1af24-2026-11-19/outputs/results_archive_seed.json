@@ -1,0 +1,22 @@
+{
+  "receipt": "4ea570dda6e8805a4e09787cfe814dbc3984b360319e683632bc9a18dd43d75e",
+  "seed": "8900e848e14ee8224563877b41d4c5106ec72f58a4eaa49c0830640ed9b5a957",
+  "outcome": "confirmed",
+  "cross_check_receipt": "72848bbe8b3ca6fcae859205f995a1e37042bfd5f179cdb05ef491d9357caf3e",
+  "cross_match": true,
+  "outputs": {
+    "and3_phi_max": 1.0,
+    "copies_phi_max": 0.0,
+    "copies_reachable_states": 8,
+    "counter_phi_closest_to_019": 0.192645,
+    "counter_phi_max": 1.0,
+    "counter_phi_max_ties_total": 4.0,
+    "counter_phi_min": 0.192645,
+    "counter_states_phi_near_019": 14,
+    "counter_states_phi_zero": 0,
+    "counter_states_tie_total": 2,
+    "replay_phi_max": 0.0,
+    "replay_self_phi_max": 0.0,
+    "test_passed": 1
+  }
+}
