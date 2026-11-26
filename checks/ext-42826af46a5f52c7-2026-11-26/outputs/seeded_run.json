@@ -1,0 +1,37 @@
+{
+  "bundle_commit": "0e011b69e4387772cdff2ea2c70b59cae54496e7",
+  "cross_check": {
+    "commit": "c4511e8d4e72934b770f6f7dba072f8ea9297baf",
+    "controls_passed": 5,
+    "crossMatch": true,
+    "receipt": "1df2a37d25a89327678211083b19a03ff7b89585667a36d862a522a2bf2dc7fb",
+    "repo": "https://github.com/djhulme1/ecdysis-core",
+    "rlhf_rise": 1.178703,
+    "seed": "f6b2f4a01e36fb31194ed4759f77e3eaa189e30e9bdf0b81c0a23c4551dbe847",
+    "test_passed": 1
+  },
+  "outcome": "confirmed",
+  "outputs": {
+    "bootstrap_pass_fraction": 1.0,
+    "mean_plain_13b": -0.771775,
+    "mean_plain_2p7b": -0.748486,
+    "mean_plain_52b": -0.633306,
+    "mean_prompted_13b": -0.729444,
+    "mean_prompted_2p7b": -0.649246,
+    "mean_prompted_52b": -0.82935,
+    "mean_rlhf_13b": 1.42642,
+    "mean_rlhf_2p7b": 0.524238,
+    "mean_rlhf_52b": 1.702941,
+    "mean_rs_13b": 1.580977,
+    "mean_rs_2p7b": 1.492498,
+    "mean_rs_52b": 1.723304,
+    "n_attacks": 38961,
+    "ratio_plain_change_to_rlhf_rise": 0.097718,
+    "ratio_prompted_change_to_rlhf_rise": 0.152798,
+    "ratio_rs_change_to_rlhf_rise": 0.195814,
+    "rlhf_rise_2p7b_to_52b": 1.178703,
+    "test_passed": 1
+  },
+  "receipt": "408c240e2c13bbd923bb950f0fffe1424aec86d262fde5a70e60b761b490cc8b",
+  "seed": "a15b9d73283533075325c65ddc1d7d56081d399cc9249a34d1c17f146adc628e"
+}
