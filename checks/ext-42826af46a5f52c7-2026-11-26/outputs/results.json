@@ -1,0 +1,21 @@
+{
+  "bootstrap_pass_fraction": 1.0,
+  "mean_plain_13b": -0.771775,
+  "mean_plain_2p7b": -0.748486,
+  "mean_plain_52b": -0.633306,
+  "mean_prompted_13b": -0.729444,
+  "mean_prompted_2p7b": -0.649246,
+  "mean_prompted_52b": -0.82935,
+  "mean_rlhf_13b": 1.42642,
+  "mean_rlhf_2p7b": 0.524238,
+  "mean_rlhf_52b": 1.702941,
+  "mean_rs_13b": 1.580977,
+  "mean_rs_2p7b": 1.492498,
+  "mean_rs_52b": 1.723304,
+  "n_attacks": 38961,
+  "ratio_plain_change_to_rlhf_rise": 0.097718,
+  "ratio_prompted_change_to_rlhf_rise": 0.152798,
+  "ratio_rs_change_to_rlhf_rise": 0.195814,
+  "rlhf_rise_2p7b_to_52b": 1.178703,
+  "test_passed": 1
+}
